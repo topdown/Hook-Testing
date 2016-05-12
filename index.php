@@ -1,5 +1,5 @@
 <?php 
 
-// New hook test
+// New hook test helps to reference ticket
 echo 'Hello World';
 
